@@ -1,7 +1,13 @@
 # Bertrand BURCKER
 ## Available now for a Data Scientist position
 
+<img src="/images/avatar.png" alt="Bertrand BURCKER" width="200"/>
+
+<hr>
+
 Besides being a specialist in energy systems, I qualified to become a data scientist. Because the world is constantly changing, I continuously learn and adapt. My objective is now to leverage available data with artificial intelligence technologies to take up high level challenges such as industry competitiveness, energy transition, global warming, medical research and more.
+
+<hr>
 
 ### EXPERIENCE
 2021 – Cloud Data Engineer – FM Logistic
@@ -12,9 +18,9 @@ Besides being a specialist in energy systems, I qualified to become a data scien
 
 2020 – Data Science Projects
 - Machine learning teacher within Vivadata.
-- Electrical demand prediction deployed on Heroku.
+- [Electrical demand prediction deployed on Heroku.](https://electricityinfrance.herokuapp.com/)
 - Chatbot developed with RASA.
-- Image recognition :  under development.
+- [Image recognition (_under development_).](https://strasbourg-pictures-2cf54jn4da-ew.a.run.app/)
 
 2017-19 –  Commissioning Engineer – GE (Ex-Alstom)
 - CSP electrical power plant in Israel, responsible for mechanical and process commissioning.
@@ -26,6 +32,8 @@ Besides being a specialist in energy systems, I qualified to become a data scien
 - Calculated heat and mass balances.
 - Build an annual solar production model from scratch.
 - VBA, Matlab and internal calculation softwares.
+
+<hr>
 
 ### FULL STACK DATA SKILLS
 
@@ -39,30 +47,35 @@ Besides being a specialist in energy systems, I qualified to become a data scien
 - **Google Cloud Platform** ressources : Compute Engine, Cloud Run, Kubernetes Engine, Cloud Storage, BigQuery
 - Cloud provisioning with **Terraform**
 
+<hr>
+
 ### EDUCATION
 
-2021 – Data Engineer – Data Science Tech Institute
+2021 – Data Engineer – [Data Science Tech Institute](https://www.datasciencetech.institute/)
 
 - SQL and NoSQL Databases
 - DevOps & CI
 - Hadoop & Spark Ecosystems
 
-2020 – Full Stack Data Science – Vivadata
+2020 – Full Stack Data Science – [Vivadata](https://vivadata.org/)
 - Intense programming training with Python
 - Data treatment, analysis and visualization
 - Machine Learning, Deep Learning, NLP
 
-2012 – Master’s Degree – École des Mines de Nantes
+2012 – Master’s Degree – [IMT Atlantique (Legacy: École des Mines de Nantes)](https://www.imt-atlantique.fr/fr)
 - Energy Systems Engineering
 - General project management
 - President of the Student Union
 
+<hr>
+
 ### HOBBIES
 
-| <span style="font-weight:normal">Music</span>|<span style="font-weight:normal">Drums and percussion instruments</span>          |
-| :--------------- |:---------------|
-| Sports | Handball, snowboard, kitesurf, sailing |   
-| Travel | Madagascar, Mongolia, New Zealand, Israel, South America...          |   
+- Music : _Drums and percussion instruments_
+- Sports : _Handball, snowboard, kitesurf, sailing_
+- Travel : _Madagascar, Mongolia, New Zealand, Israel, South America..._
+
+<hr>
 
 ### LANGUAGES
 - French (_native_)
