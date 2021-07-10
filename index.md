@@ -1,8 +1,6 @@
 # Bertrand BURCKER
 ## Available now for a Data Scientist position
 
-<img src="/images/avatar.png" alt="Bertrand BURCKER" width="200"/>
-
 <hr>
 
 Besides being a specialist in energy systems, I qualified to become a data scientist. Because the world is constantly changing, I continuously learn and adapt. My objective is now to leverage available data with artificial intelligence technologies to take up high level challenges such as industry competitiveness, energy transition, global warming, medical research and more.
