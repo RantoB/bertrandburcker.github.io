@@ -1,37 +1,70 @@
-## Welcome to GitHub Pages
+# Bertrand BURCKER
+## Available now for a Data Scientist position
 
-You can use the [editor on GitHub](https://github.com/RantoB/bertrandburcker.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Besides being a specialist in energy systems, I qualified to become a data scientist. Because the world is constantly changing, I continuously learn and adapt. My objective is now to leverage available data with artificial intelligence technologies to take up high level challenges such as industry competitiveness, energy transition, global warming, medical research and more.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### EXPERIENCE
+2021 – Cloud Data Engineer – FM Logistic
+- Data transformation with Dataform and Cloud Functions.
+- BigQuery data warehouse management.
+- Project deployment with Terraform.
+- Data visualization with Google Data Studio.
 
-### Markdown
+2020 – Data Science Projects
+- Machine learning teacher within Vivadata.
+- Electrical demand prediction deployed on Heroku.
+- Chatbot developed with RASA.
+- Image recognition :  under development.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2017-19 –  Commissioning Engineer – GE (Ex-Alstom)
+- CSP electrical power plant in Israel, responsible for mechanical and process commissioning.
+- Supervised subcontractors and managed techniciens.
+- Prepared and carried out the performance tests, in direct contact with the client and the electrical Israeli grid.
 
-```markdown
-Syntax highlighted code block
+2013-17 – Performance Calculation Engineer – Alstom
+- In charge of the overall performance calculation.
+- Calculated heat and mass balances.
+- Build an annual solar production model from scratch.
+- VBA, Matlab and internal calculation softwares.
 
-# Header 1
-## Header 2
-### Header 3
+### FULL STACK DATA SKILLS
 
-- Bulleted
-- List
+- Programming languages : **Python** and **SQL**, good knowledge in Java
+- Version control with **git**
+- **Machine Learning** & **Deep Learning** libraries : Scikit learn, Statsmodel, OpenCV, CNN, RNN with  Tensorflow
+- Natural Language Processing
+- Frameworks : FastAPI, Flask, Dash
+- **Linux** environment
+- PaaS deployment with **Docker**
+- **Google Cloud Platform** ressources : Compute Engine, Cloud Run, Kubernetes Engine, Cloud Storage, BigQuery
+- Cloud provisioning with **Terraform**
 
-1. Numbered
-2. List
+### EDUCATION
 
-**Bold** and _Italic_ and `Code` text
+2021 – Data Engineer – Data Science Tech Institute
 
-[Link](url) and ![Image](src)
-```
+- SQL and NoSQL Databases
+- DevOps & CI
+- Hadoop & Spark Ecosystems
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+2020 – Full Stack Data Science – Vivadata
+- Intense programming training with Python
+- Data treatment, analysis and visualization
+- Machine Learning, Deep Learning, NLP
 
-### Jekyll Themes
+2012 – Master’s Degree – École des Mines de Nantes
+- Energy Systems Engineering
+- General project management
+- President of the Student Union
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RantoB/bertrandburcker.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### HOBBIES
 
-### Support or Contact
+| <span style="font-weight:normal">Music</span>|<span style="font-weight:normal">Drums and percussion instruments</span>          |
+| :--------------- |:---------------|
+| Sports | Handball, snowboard, kitesurf, sailing |   
+| Travel | Madagascar, Mongolia, New Zealand, Israel, South America...          |   
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### LANGUAGES
+- French (_native_)
+- English (_fluent_)
+- German, Spanish (_beginner_)
