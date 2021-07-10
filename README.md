@@ -1,2 +1,1 @@
-# bertrandburcker.github.io
-My resume on GitHub
+First version of my resume on GitHub
