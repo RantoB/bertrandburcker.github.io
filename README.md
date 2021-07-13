@@ -1,1 +1,1 @@
-## [First version of my resume on GitHub]()
+## [First version of my resume on GitHub](https://rantob.github.io/bertrandburcker.resume/)
